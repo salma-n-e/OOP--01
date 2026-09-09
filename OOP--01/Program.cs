@@ -18,6 +18,7 @@
             // 2 b 
             // Private fields hide internal implementation details
             // Public properties provide controlled access through get and set accessors
+
         }
     }
 }
