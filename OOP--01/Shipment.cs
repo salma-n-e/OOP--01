@@ -12,6 +12,7 @@ namespace SmartDelivery
             private string Description;
             private double Weight;
             private Decimal DeliveryFee;
+        private string destination;
             public Models Destination { get; set; }
             public string trackingCode
             {
